@@ -1,0 +1,14 @@
+Instagram Developing:
+Author: Mohan
+
+1.Normal feeds code
+
+2.Stories code
+
+3.Search code
+
+4.Profile code
+
+5.Messages code
+
+6.Reels code
